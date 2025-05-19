@@ -76,7 +76,7 @@ Dataset is pre-cleaned and available as `.csv`.
 
 ## 🔗 Links
 
-- 🔬 [View on Google Colab](https://colab.research.google.com/your_colab_link_here)  
+- 🔬 [[View on Google Colab](https://colab.research.google.com/your_colab_link_here](https://colab.research.google.com/drive/1VCH3pxQKHoWJn-H3n325HwwEEgW-ZS8M?usp=sharing))  
 - 💻 [GitHub Repository](https://github.com/yourusername/SMS-Spam-Classifier)
 
 ---
@@ -89,7 +89,7 @@ This project was part of my **Data Science learning journey** and helped me impr
 
 ## 📫 Contact
 
-If you'd like to connect or collaborate, feel free to reach out on [LinkedIn](https://linkedin.com/in/your-profile)
+If you'd like to connect or collaborate, feel free to reach out on [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/abhinav-sharma-945a45316/))
 
 ---
 
